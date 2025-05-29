@@ -1,4 +1,6 @@
+Drive Capacitors:
 Capacitors:
 Resistors:
 Controller:
 IGBTs/MOSFETs:
+Diodes:
